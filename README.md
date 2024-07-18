@@ -3,8 +3,6 @@ This program provides functionality to encode and decode sentences using a modif
 ### Key Features:
 - **Encoding**: Converts each character in a sentence to its corresponding numeric value.
 - **Decoding**: Converts a sequence of numeric values back to the corresponding sentence.
-- **Input Validation**: Ensures only valid characters and numbers are processed, providing error messages for any invalid entries.
-- **User Interaction**: Prompts the user to choose between encoding and decoding modes and to provide the necessary input for the chosen operation.
 
 ### Usage:
 1. The user is prompted to select "encode" (e) or "decode" (d) mode.
